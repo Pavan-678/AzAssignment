@@ -34,6 +34,16 @@
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
+  <script src="https://alcdn.msauth.net/browser/2.13.1/js/msal-browser.js"
+    integrity="sha384-7hwr87O1w6buPsX92CwuRaz/wQzachgOEq+iLHv0ESavynv6rbYwKImSl7wUW3wV"
+    crossorigin="anonymous"></script>
+
+  <script type="text/javascript">
+    if (typeof Msal === 'undefined') document.write(unescape("%3Cscript src='https://alcdn.msftauth.net/browser/2.13.1/js/msal-browser.js' type='text/javascript' crossorigin='anonymous' %3E%3C/script%3E"));
+  </script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <link rel="SHORTCUT ICON" href="https://c.s-microsoft.com/favicon.ico?v2" type="image/x-icon">
 </head>
 
 <body>
@@ -51,7 +61,7 @@
 
       <nav id="nav-menu-container">
         <ul class="nav-menu">
-          <li class="menu-active"><a href="Profile.html">Login</a></li>
+          <li class="menu-active"><a href="Profile.html" onclick="signIn()">Login</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
