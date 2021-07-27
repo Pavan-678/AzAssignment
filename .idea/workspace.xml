@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4474977-37c9-4299-8c1d-78cf3ecb3e25" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/azure-static-web-apps-green-sea-02d4bfd10.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/azure-static-web-apps-green-sea-02d4bfd10.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ms-identity-javascript-v2-master.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppCreationScripts/AppCreationScripts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppCreationScripts/Cleanup.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppCreationScripts/Configure.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppCreationScripts/apps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppCreationScripts/sample.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SECURITY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Profile_Upload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/css/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/css/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/material-design-iconic-font/css/material-design-iconic-font.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/material-design-iconic-font/css/material-design-iconic-font.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/material-design-iconic-font/fonts/Material-Design-Iconic-Font.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/material-design-iconic-font/fonts/Material-Design-Iconic-Font.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/material-design-iconic-font/fonts/Material-Design-Iconic-Font.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/muli/Muli-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/muli/Muli-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/muli/Muli-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/muli/Muli-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/muli/Muli-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/muli/Muli-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/muli/Muli-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/muli/Muli-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/muli/Muli-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/muli/Muli-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/muli/Muli-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/muli/Muli-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/muli/Muli-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/muli/Muli-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/muli/OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/poppins/OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/poppins/Poppins-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/poppins/Poppins-BlackItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/poppins/Poppins-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/poppins/Poppins-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/poppins/Poppins-ExtraBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/poppins/Poppins-ExtraBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/poppins/Poppins-ExtraLight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/poppins/Poppins-ExtraLightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/poppins/Poppins-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/poppins/Poppins-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/poppins/Poppins-LightItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/poppins/Poppins-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/poppins/Poppins-MediumItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/poppins/Poppins-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/poppins/Poppins-SemiBold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/poppins/Poppins-SemiBoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/poppins/Poppins-Thin.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/fonts/poppins/Poppins-ThinItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/images/artist-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/images/artist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/images/avartar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/images/business-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/images/business.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/images/form-wizard-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/images/map-marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/images/programming-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/images/programming.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/images/research-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/images/research.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/images/teacher-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/images/teacher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/images/tour-guide-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/images/tour-guide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/js/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/js/jquery.steps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/ProfileAssets/js/theme-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/about-img.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/clients/client-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/clients/client-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/clients/client-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/clients/client-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/clients/client-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/clients/client-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/clients/client-7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/clients/client-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/intro-carousel/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/intro-carousel/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/intro-carousel/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/intro-carousel/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/intro-carousel/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/portfolio/portfolio-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/portfolio/portfolio-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/portfolio/portfolio-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/portfolio/portfolio-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/portfolio/portfolio-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/portfolio/portfolio-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/portfolio/portfolio-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/portfolio/portfolio-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/portfolio/portfolio-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/portfolio/portfolio-details-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/portfolio/portfolio-details-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/portfolio/portfolio-details-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/preloader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/quote-sign-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/quote-sign-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/team-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/team-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/team-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/team-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/testimonial-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/testimonial-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/testimonial-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/testimonial-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/img/testimonial-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/js/upload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/animate.css/animate.compat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/animate.css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/animate.css/animate.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/boxicons/css/animations.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/boxicons/css/boxicons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/boxicons/css/boxicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/boxicons/css/transformations.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/boxicons/fonts/boxicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/boxicons/fonts/boxicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/boxicons/fonts/boxicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/boxicons/fonts/boxicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/boxicons/fonts/boxicons.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/font-awesome/css/font-awesome.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/hoverIntent/hoverIntent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/ionicons/css/ionicons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/ionicons/css/ionicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/ionicons/fonts/ionicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/ionicons/fonts/ionicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/ionicons/fonts/ionicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/ionicons/fonts/ionicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/isotope-layout/isotope.pkgd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/isotope-layout/isotope.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/jquery-sticky/jquery.sticky.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/jquery.easing/jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/jquery/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/owl.carousel/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/owl.carousel/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/owl.carousel/assets/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/owl.carousel/assets/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/owl.carousel/assets/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/owl.carousel/assets/owl.theme.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/owl.carousel/assets/owl.theme.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/owl.carousel/assets/owl.theme.green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/owl.carousel/assets/owl.theme.green.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/owl.carousel/assets/owl.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/owl.carousel/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/owl.carousel/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/php-email-form/validate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/superfish/superfish.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/venobox/venobox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/venobox/venobox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/venobox/venobox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/venobox/venobox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/wow/wow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/vendor/wow/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/authConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/authPopup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/authRedirect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/favicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/forms/Readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/forms/contact.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/graph.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/graphConfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/changelog.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vcHJYmutHhRRxoCSBcTn6aJC7j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4474977-37c9-4299-8c1d-78cf3ecb3e25" name="Default Changelist" comment="" />
+      <created>1626854395762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626854395762</updated>
+      <workItem from="1626854398918" duration="1346000" />
+      <workItem from="1626858996875" duration="69000" />
+      <workItem from="1627109452710" duration="5982000" />
+      <workItem from="1627276137967" duration="32000" />
+      <workItem from="1627385146109" duration="505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
